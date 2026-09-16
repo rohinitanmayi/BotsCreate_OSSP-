@@ -1,0 +1,9 @@
+.cache/
+.config/
+.bash_history
+.bashrc
+.bash_logout
+.gitconfig
+.profile
+.python_history
+.motd_shown
