@@ -1,0 +1,10 @@
+This is important information.
+Linux is an operating system.
+Files can be backed up.
+Backup protects important data.
+The cp command copies files.
+The mv command moves files.
+The rm command deletes files.
+Restoring data is useful.
+Linux file management is easy.
+This is my backup practice.

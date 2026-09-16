@@ -1,0 +1,2 @@
+Linux is an operating system.
+I am learning Linux commands.
